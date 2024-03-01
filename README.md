@@ -24,7 +24,7 @@ Wi-Fi 5GHz
 
 Wi-Fi 6GHz
  - Wi-Fi 6E and Wi-Fi 7 profile originally made by Aaronia with some color and name changes
- - Wi-Fi6E - U-NII-5 for Europe (for now)
+ - Wi-Fi 6E - U-NII-5 for Europe (for now)
 
 This is how the all 5GHz bands profile looks like 😍🛜
 
